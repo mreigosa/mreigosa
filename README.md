@@ -10,4 +10,4 @@
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 </p>
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)
+- 📫 &nbsp; [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)
