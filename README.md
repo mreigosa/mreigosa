@@ -5,7 +5,7 @@
 - I’m currently working as a Senior Android Developer as [Habitissimo](https://www.habitissimo.es/)
 
 - I speak Spanish :es:, English :us: and:
-<p style="margin-left:5em;">
+<p style="margin-left:10em;">
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 </p>
