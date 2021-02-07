@@ -13,7 +13,8 @@
 - 📫 &nbsp; [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)
 
 📈 My GitHub Stats
-<br></br>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mreigosa&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
+</p>
