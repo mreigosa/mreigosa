@@ -17,3 +17,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mreigosa&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 </p>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)](https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)
