@@ -11,9 +11,6 @@
 
 - 📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mreigosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)](https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)
 
-
-[LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)
-
 📈 My GitHub Stats
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
