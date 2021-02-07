@@ -1,6 +1,6 @@
 ### Hello everyone 👋, my name is Martin
 
-- 💻 &nbsp; I'm a Software Engineer
+- I'm a Software Engineer 💻 &nbsp; 
 
 - I’m currently working as a Senior Android Developer as [Habitissimo](https://www.habitissimo.es/)
 
