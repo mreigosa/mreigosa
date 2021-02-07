@@ -8,10 +8,6 @@
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-FF8C00?logo=kotlin&logoColor=white&style=flat" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-mreigosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)](https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)
-[![Gmail Badge](https://img.shields.io/badge/-martinreigosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinreigosa@gmail.com)](mailto:martinreigosa@gmail.com)
-
 📈 My GitHub Stats
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
