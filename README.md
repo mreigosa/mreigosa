@@ -19,4 +19,4 @@
 </p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Martin Reigosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)](https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)
+[![Linkedin Badge](https://img.shields.io/badge/-mreigosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)](https://www.linkedin.com/in/mart%C3%ADn-reigosa-garc%C3%ADa-527b2a76/)
