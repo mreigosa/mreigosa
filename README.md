@@ -2,7 +2,7 @@
 
 - I'm a Software Engineer 💻 &nbsp; 
 
-- I’m currently working as a Senior Android Developer at [Habitissimo](https://www.habitissimo.es/)
+- I’m currently working as a Senior Android Engineer at [Citibox](https://citibox.com/es)
 
 - I speak Spanish :es:, English :us: and:
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-FF8C00?logo=kotlin&logoColor=white&style=flat" />
