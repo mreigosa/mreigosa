@@ -2,7 +2,7 @@
 
 - I'm a Software Engineer 💻 &nbsp; 
 
-- I’m a Senior Android Engineer currently focused in Android development
+- I’m a Senior Mobile Engineer currently focused in Android development
 
 - I speak Spanish :es:, English :us: and:
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-FF8C00?logo=kotlin&logoColor=white&style=flat" />
